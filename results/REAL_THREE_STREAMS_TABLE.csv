@@ -1,0 +1,7 @@
+dataset,method,repetitions,events,nodes,max_timestamp_window_error,future_edits_per_event,future_edits_to_development_records,future_max_update_old_changes,time_seconds_median,time_seconds_min,time_seconds_max,audit_pass_all
+emailEU,pairing,3,332334,986,1.0,1.047091037657785,20049,5017,11.588708833,10.694649875,27.772795833,True
+emailEU,greedy,3,332334,986,3.0,0.0,0,0,2.960896542,2.82744875,3.116806458,True
+CollegeMsg,pairing,3,59835,1899,1.0,0.4572992395754993,2428,234,0.852382958,0.834192375,0.941020209,True
+CollegeMsg,greedy,3,59835,1899,2.5,0.0,0,0,0.519330583,0.492685291,0.522414708,True
+HospitalContact,pairing,3,32424,75,1.0,0.46214340786430225,467,478,0.3535165,0.3317905,0.382877209,True
+HospitalContact,greedy,3,32424,75,2.5,0.0,0,0,0.276643875,0.276563917,0.285666708,True

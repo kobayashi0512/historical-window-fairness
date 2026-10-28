@@ -1,0 +1,103 @@
+{
+  "pass": true,
+  "datasets": [
+    "emailEU",
+    "CollegeMsg",
+    "HospitalContact"
+  ],
+  "repetitions_per_dataset_method": 3,
+  "method_runs": 18,
+  "rows": [
+    {
+      "dataset": "emailEU",
+      "method": "pairing",
+      "repetitions": 3,
+      "events": 332334,
+      "nodes": 986,
+      "max_timestamp_window_error": 1.0,
+      "future_edits_per_event": 1.047091037657785,
+      "future_edits_to_development_records": 20049,
+      "future_max_update_old_changes": 5017,
+      "time_seconds_median": 11.588708833,
+      "time_seconds_min": 10.694649875,
+      "time_seconds_max": 27.772795833,
+      "audit_pass_all": true
+    },
+    {
+      "dataset": "emailEU",
+      "method": "greedy",
+      "repetitions": 3,
+      "events": 332334,
+      "nodes": 986,
+      "max_timestamp_window_error": 3.0,
+      "future_edits_per_event": 0.0,
+      "future_edits_to_development_records": 0,
+      "future_max_update_old_changes": 0,
+      "time_seconds_median": 2.960896542,
+      "time_seconds_min": 2.82744875,
+      "time_seconds_max": 3.116806458,
+      "audit_pass_all": true
+    },
+    {
+      "dataset": "CollegeMsg",
+      "method": "pairing",
+      "repetitions": 3,
+      "events": 59835,
+      "nodes": 1899,
+      "max_timestamp_window_error": 1.0,
+      "future_edits_per_event": 0.4572992395754993,
+      "future_edits_to_development_records": 2428,
+      "future_max_update_old_changes": 234,
+      "time_seconds_median": 0.852382958,
+      "time_seconds_min": 0.834192375,
+      "time_seconds_max": 0.941020209,
+      "audit_pass_all": true
+    },
+    {
+      "dataset": "CollegeMsg",
+      "method": "greedy",
+      "repetitions": 3,
+      "events": 59835,
+      "nodes": 1899,
+      "max_timestamp_window_error": 2.5,
+      "future_edits_per_event": 0.0,
+      "future_edits_to_development_records": 0,
+      "future_max_update_old_changes": 0,
+      "time_seconds_median": 0.519330583,
+      "time_seconds_min": 0.492685291,
+      "time_seconds_max": 0.522414708,
+      "audit_pass_all": true
+    },
+    {
+      "dataset": "HospitalContact",
+      "method": "pairing",
+      "repetitions": 3,
+      "events": 32424,
+      "nodes": 75,
+      "max_timestamp_window_error": 1.0,
+      "future_edits_per_event": 0.46214340786430225,
+      "future_edits_to_development_records": 467,
+      "future_max_update_old_changes": 478,
+      "time_seconds_median": 0.3535165,
+      "time_seconds_min": 0.3317905,
+      "time_seconds_max": 0.382877209,
+      "audit_pass_all": true
+    },
+    {
+      "dataset": "HospitalContact",
+      "method": "greedy",
+      "repetitions": 3,
+      "events": 32424,
+      "nodes": 75,
+      "max_timestamp_window_error": 2.5,
+      "future_edits_per_event": 0.0,
+      "future_edits_to_development_records": 0,
+      "future_max_update_old_changes": 0,
+      "time_seconds_median": 0.276643875,
+      "time_seconds_min": 0.276563917,
+      "time_seconds_max": 0.285666708,
+      "audit_pass_all": true
+    }
+  ],
+  "scope": "Third dataset is a hospital temporal-contact stream used only as a hypothetical mutable digital-ownership workload; it does not model clinical assignment."
+}

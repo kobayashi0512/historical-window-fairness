@@ -1,0 +1,15 @@
+{
+  "created_utc": "2026-10-27T06:44:24.067749+00:00",
+  "seed_range_inclusive": [
+    7401,
+    7450
+  ],
+  "source_sha256": {
+    "/Volumes/子衿/工作/会议合集/第二会议/.codex_build/aroc_submission_v3/run_experiments.py": "f741dc1cafd5beb6079856649e10204b61d09037fb6a998e170acfd6e977ef30",
+    "/Volumes/子衿/工作/会议合集/第二会议/双端事件流历史窗口公平_论文项目/端到端试验/allocators.py": "86795296129ab028c0f414973b50bba22edf13a2b42b37e73d5816becb213767",
+    "/Volumes/子衿/工作/会议合集/第二会议/双端事件流历史窗口公平_论文项目/端到端试验/verification.py": "01d8301cadef55f95437ee68cf9b8dfce7d1f96b9df4fc432349a1c441ffe576",
+    "/Volumes/子衿/工作/会议合集/第二会议/双端事件流历史窗口公平_论文项目/最终实验_原始数据与结果/SUITE_matrix.json": "e5edcfef7bed810d0a07fde9267350929c8b0c6197bed48472b85cbe0a1f5a61"
+  },
+  "overlap_validation": "seeds 7401--7410 must match the retained v2 records exactly for all algorithmic fields",
+  "run_resumption": "raw records are append-only; a completed case is not overwritten"
+}
