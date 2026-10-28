@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and this archived release."
+title: "Historical-Window Fairness for Dyadic Event Streams"
+version: 0.1.0
+date-released: 2026-10-28
+authors:
+  - family-names: Deng
+    given-names: Kaiwen
+    affiliation: "School of Railway Intelligent Engineering, Dalian Jiaotong University"
+  - family-names: Liu
+    given-names: Liwei
+    affiliation: "School of Railway Intelligent Engineering, Dalian Jiaotong University"
+abstract: "Reference implementation and reproducibility materials for incremental responsibility assignment with historical-window fairness in dyadic event streams."
+keywords:
+  - dyadic event streams
+  - historical-window fairness
+  - incremental maintenance
+  - recourse
