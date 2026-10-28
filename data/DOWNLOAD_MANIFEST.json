@@ -1,0 +1,83 @@
+{
+  "scope": "explicit official-source bounded download; no images or models",
+  "files": [
+    {
+      "file": "imaplus_subset.csv",
+      "url": "https://zenodo.org/records/14201693/files/seg_metadata_multiannotator_subset.csv?download=1",
+      "terms_note": "CC BY-NC-ND 4.0; local analysis, no derived-row redistribution",
+      "max_bytes": 3000000,
+      "retrieved_utc": "2026-10-16T07:13:45.559953+00:00",
+      "resolved_url": "https://zenodo.org/records/14201693/files/seg_metadata_multiannotator_subset.csv?download=1",
+      "content_type": "text/plain; charset=utf-8",
+      "status": "downloaded",
+      "bytes": 1264684,
+      "sha256": "033a3dae5b4c09014b2b4b795b88f202d0e0d56c9fc9fc5560401c9c969903ce",
+      "md5": "d8adefffa3ca1d7460aae5b7a5d1e661"
+    },
+    {
+      "file": "hospital_contacts.dat.gz",
+      "url": "https://sociopatterns.org/assets/data/hospital_lyon_contacts.dat.gz",
+      "terms_note": "SocioPatterns CC BY-NC-SA; cite original paper and source",
+      "max_bytes": 2000000,
+      "retrieved_utc": "2026-10-16T07:13:45.560263+00:00",
+      "resolved_url": "https://sociopatterns.org/assets/data/hospital_lyon_contacts.dat.gz",
+      "content_type": "application/gzip",
+      "status": "downloaded",
+      "bytes": 107986,
+      "sha256": "12124ddc438300bcaea0022d4937e0e566679e1fd8f11f16a62214fbebc2b012",
+      "md5": "c8c5534a4db1f24db5a86fbd3d1403ff"
+    },
+    {
+      "file": "CollegeMsg.txt.gz",
+      "url": "https://snap.stanford.edu/data/CollegeMsg.txt.gz",
+      "terms_note": "SNAP source/citation terms; do not infer new data license",
+      "max_bytes": 5000000,
+      "retrieved_utc": "2026-10-16T07:13:45.560368+00:00",
+      "resolved_url": "https://snap.stanford.edu/data/CollegeMsg.txt.gz",
+      "content_type": "application/x-gzip",
+      "status": "downloaded",
+      "bytes": 345339,
+      "sha256": "50ae2d98ed3bad9ddb18dbd495a89e5e10cfb8f7e86932827db29fc41b41f9fa",
+      "md5": "1095bbb6fceb596fb70b3fc680414bfd"
+    },
+    {
+      "file": "email-Eu-core-temporal.txt.gz",
+      "url": "https://snap.stanford.edu/data/email-Eu-core-temporal.txt.gz",
+      "terms_note": "SNAP source/citation terms; do not infer new data license",
+      "max_bytes": 10000000,
+      "retrieved_utc": "2026-10-16T07:13:45.560420+00:00",
+      "resolved_url": "https://snap.stanford.edu/data/email-Eu-core-temporal.txt.gz",
+      "content_type": "application/x-gzip",
+      "status": "downloaded",
+      "bytes": 1683428,
+      "sha256": "f6cc93249978e59d1aba111b55ea10ec553917419a3be1210012b5db3580efa6",
+      "md5": "da2b199abccbad1b89d06a69e994363b"
+    },
+    {
+      "file": "RobinX-master.zip",
+      "url": "https://codeload.github.com/Robin-X/RobinX/zip/refs/heads/master",
+      "terms_note": "Author repository; inspect embedded use terms, source and instance provenance before redistribution",
+      "max_bytes": 30000000,
+      "retrieved_utc": "2026-10-16T07:13:46.615410+00:00",
+      "resolved_url": "https://codeload.github.com/Robin-X/RobinX/zip/refs/heads/master",
+      "content_type": "application/zip",
+      "status": "downloaded",
+      "bytes": 16027150,
+      "sha256": "ac61120222ca6d6c485161da14689061a5f129ca33f85dee59123d1d170d5777",
+      "md5": "e8844753c7bbcb5a202f955db4648d60"
+    },
+    {
+      "file": "mendeley_radiology_page.html",
+      "url": "https://data.mendeley.com/datasets/jsg8c4yhxy/2",
+      "terms_note": "Data record lists CC BY 4.0; HTML only used to locate file metadata",
+      "max_bytes": 5000000,
+      "retrieved_utc": "2026-10-16T07:13:51.088876+00:00",
+      "resolved_url": "https://data.mendeley.com/datasets/jsg8c4yhxy/2",
+      "content_type": "text/html; charset=utf-8",
+      "status": "downloaded",
+      "bytes": 136875,
+      "sha256": "0e4fff2d75370a69fb33fdf5b0e6fd26a378baaa57b86bcdf590d57eaa1cce83",
+      "md5": "b8d92b4d4fba463d06ebf96884d383f9"
+    }
+  ]
+}
