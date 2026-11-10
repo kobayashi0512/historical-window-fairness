@@ -44,8 +44,7 @@ PYTHONPATH=src python src/run_e2e.py --dataset emailEU --method StandardParityDS
 
 ## 作者与资助
 
-邓凯文，刘立伟<br>
-大连交通大学铁路智能工程学院
+邓凯文，刘立伟<br>邓凯文：大连交通大学轨道智能工程学院；刘立伟：大连交通大学理学院
 
 基金项目：辽宁省属高校基本科研业务费专项资金（LJ212410150016）。
 
